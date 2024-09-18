@@ -1,0 +1,639 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\source\\repos\\Coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\createattachmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\createattachmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\issueprioritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\issueprioritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\issuestatusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\issuestatusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\createprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\issuepriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\issuepriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\createcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\createcommentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\coursework.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\coursework.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\issuestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\issuestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\updateprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\updateprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\updateissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\updateissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\issuestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\issuestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\createissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\createissuerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\models\\dtos\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\models\\dtos\\attachmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\controllers\\attachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\controllers\\attachmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|c:\\users\\andrei\\source\\repos\\coursework\\coursework\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57CC7A4-7AC6-459A-A783-BB53A41B9347}|Coursework\\Coursework.csproj|solutionrelative:coursework\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Project.cs",
+              "RelativeToolTip": "Coursework\\Models\\Project.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:39:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IssueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\IssueDTO.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\IssueDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\IssueDTO.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\IssueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:49:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\User.cs",
+              "RelativeToolTip": "Coursework\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:39:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Program.cs",
+              "RelativeDocumentMoniker": "Coursework\\Program.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Program.cs",
+              "RelativeToolTip": "Coursework\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:21:00.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:24:09.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\IssuesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\IssuesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:53:08.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IssueStatusesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\IssueStatusesController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\IssueStatusesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\IssueStatusesController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\IssueStatusesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:51:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CommentDTO.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\CommentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:52:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAttachmentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateAttachmentRequest.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\CreateAttachmentRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateAttachmentRequest.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\CreateAttachmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:52:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IssuePrioritiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\IssuePrioritiesController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\IssuePrioritiesController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\IssuePrioritiesController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\IssuePrioritiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:54:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateProjectRequest.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\CreateProjectRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateProjectRequest.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\CreateProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:34:28.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IssuePriority.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\IssuePriority.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\IssuePriority.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\IssuePriority.cs",
+              "RelativeToolTip": "Coursework\\Models\\IssuePriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:18:54.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCommentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateCommentRequest.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\CreateCommentRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateCommentRequest.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\CreateCommentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:51:58.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\ProjectDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:35:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\appsettings.json",
+              "RelativeDocumentMoniker": "Coursework\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\appsettings.json",
+              "RelativeToolTip": "Coursework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T20:20:41.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Coursework.http",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Coursework.http",
+              "RelativeDocumentMoniker": "Coursework\\Coursework.http",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Coursework.http",
+              "RelativeToolTip": "Coursework\\Coursework.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-17T20:21:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Coursework\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\WeatherForecast.cs",
+              "RelativeToolTip": "Coursework\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:21:14.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Coursework\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\appsettings.Development.json",
+              "RelativeToolTip": "Coursework\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T20:20:43.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Coursework\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Coursework\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:20:24.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Role.cs",
+              "RelativeToolTip": "Coursework\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:20:07.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Coursework\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:20:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProjectMember.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\ProjectMember.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\ProjectMember.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\ProjectMember.cs",
+              "RelativeToolTip": "Coursework\\Models\\ProjectMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:19:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Coursework\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:19:36.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IssueStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\IssueStatus.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\IssueStatus.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\IssueStatus.cs",
+              "RelativeToolTip": "Coursework\\Models\\IssueStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:19:19.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Comment.cs",
+              "RelativeToolTip": "Coursework\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:18:46.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\Attachment.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\Attachment.cs",
+              "RelativeToolTip": "Coursework\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:18:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateIssueRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateIssueRequest.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\CreateIssueRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\CreateIssueRequest.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\CreateIssueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:48:41.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IssueStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\IssueStatusDTO.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\IssueStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\IssueStatusDTO.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\IssueStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:50:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateIssueRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\UpdateIssueRequest.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\UpdateIssueRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\UpdateIssueRequest.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\UpdateIssueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:48:59.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\UpdateProjectRequest.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\UpdateProjectRequest.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\UpdateProjectRequest.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\UpdateProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:47:38.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:47:00.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AttachmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\AttachmentDTO.cs",
+              "RelativeDocumentMoniker": "Coursework\\Models\\DTOs\\AttachmentDTO.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Models\\DTOs\\AttachmentDTO.cs",
+              "RelativeToolTip": "Coursework\\Models\\DTOs\\AttachmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:52:36.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Coursework\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Coursework\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:14:09.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:31:52.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:22:09.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AttachmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\AttachmentsController.cs",
+              "RelativeDocumentMoniker": "Coursework\\Controllers\\AttachmentsController.cs",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Controllers\\AttachmentsController.cs",
+              "RelativeToolTip": "Coursework\\Controllers\\AttachmentsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:54:50.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.config",
+              "RelativeDocumentMoniker": "..\\CourseworkClient\\CourseworkClient\\App.config",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\CourseworkClient\\CourseworkClient\\App.config",
+              "RelativeToolTip": "..\\CourseworkClient\\CourseworkClient\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-17T18:32:27.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Coursework\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andrei\\source\\repos\\Coursework\\Coursework\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Coursework\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T18:41:02.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
