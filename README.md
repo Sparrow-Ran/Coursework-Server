@@ -47,3 +47,32 @@
    ```bash
    git clone https://github.com/your-username/project-management-api.git
    cd project-management-api
+
+2. Восстановите зависимости:
+   ```bash
+    dotnet restore
+
+### Конфигурация
+
+1. Обновите файл appsettings.json в проекте Coursework с вашим строкой подключения к MySQL:
+  ```json
+    "ConnectionStrings": {
+    "DefaultConnection": "Server=your_server;Database=your_database;User=your_user;Password=your_password;"
+  },
+  "Jwt": {
+    "Key": "your_secret_key",
+    "Issuer": "your_issuer",
+    "Audience": "your_audience"
+  }
+
+### Настройка базы данных
+1. Примените миграции базы данных для создания схемы базы данных:
+```bash
+  dotnet ef database update
+
+### Запуск приложения
+1. Запустите приложение:
+  ```bash
+    dotnet run
+
+  
